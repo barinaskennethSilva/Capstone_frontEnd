@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"dates"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"php",
+				"phpinfo()"
+			],
+			[
+				"P",
+				"Passport"
+			],
+			[
+				"User",
+				"UserAccount"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"boos",
+				"bootstrap-icons"
+			],
+			[
+				"pas",
+				"Password"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"H",
+				"Home"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"Room_i",
+				"Room_img"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"ex",
+				"exit()"
+			],
+			[
+				"sessio",
+				"session_start()"
+			],
+			[
+				"SE",
+				"session_start"
+			],
+			[
+				"session_d",
+				"session_destroy()"
+			],
+			[
+				"se",
+				"session_start"
+			],
+			[
+				"ses",
+				"session_destroy()"
+			],
+			[
+				"sess",
+				"session_start()"
+			],
+			[
+				"iss",
+				"isset()"
+			],
+			[
+				"session_de",
+				"session_destroy()"
+			],
+			[
+				"SESS",
+				"session_destroy()"
+			],
+			[
+				"sessi",
+				"session_destroy()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"stly",
+				"style"
+			],
+			[
+				"chec",
+				"checkin"
+			],
+			[
+				"N",
+				"Name"
+			],
+			[
+				"emp",
+				"empty()"
+			],
+			[
+				"_SE",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"my",
+				"mysqli_real_escape_string"
+			],
+			[
+				"Ro",
+				"Room_Details"
+			],
+			[
+				"Room_",
+				"Room_Num"
+			],
+			[
+				"Roo",
+				"Room_Details"
+			],
+			[
+				"R",
+				"Room_Num"
+			],
+			[
+				"tr",
+				"trim()"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"filter",
+				"filter_var()"
+			],
+			[
+				"html",
+				"htmlspecialchars()"
+			],
+			[
+				"hea",
+				"header()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"fa",
+				"fa-close"
+			],
+			[
+				"adds_mod",
+				"adds_modtext"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"Lo",
+				"LoginFormforAdmin"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fn",
+				"font-family"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-o",
+				"text-overflow"
+			],
+			[
+				"ob",
+				"object-position"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"shadow",
+				"text-shadow"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ro",
+				"row-reverse"
+			],
+			[
+				"lex",
+				"flex-direction"
+			],
+			[
+				"BAC",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"light",
+				"lightgrey"
+			],
+			[
+				"TE",
+				"text-white"
+			],
+			[
+				"img",
+				"img_component"
+			],
+			[
+				"ISSE",
+				"isset()"
+			],
+			[
+				"mys",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"bg-",
+				"border-danger"
+			],
+			[
+				"set",
+				"setcookie()"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"mysqli",
+				"mysqli_connect"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"move",
+				"move_uploaded_file()"
+			],
+			[
+				"isse",
+				"isset()"
+			],
+			[
+				"us",
+				"usertype"
+			],
+			[
+				"session",
+				"session_destroy()"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"SEA",
+				"searchIcon"
+			],
+			[
+				"search",
+				"searchIcon"
+			],
+			[
+				"bar",
+				"background-color"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ca",
+				"calendar"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"flexr",
+				"flex-direction"
+			],
+			[
+				"navba",
+				"navbar-brand"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-left-radius"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border-boo",
+				"border-bottom-right-radius"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"border-righ",
+				"border-top-right-radius"
+			],
+			[
+				"fle",
+				"flex-direction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/htdocs/htdocs/Sys_massage/resources/js/Pages/Booking_reservation.vue",
+		"/C/htdocs/htdocs/Sys_massage/resources/js/Pages/Welcome.vue",
+		"/C/htdocs/htdocs/Sys_massage/resources/js/Layouts/AuthenticatedLayout.vue",
+		"/C/htdocs/htdocs/Sys_massage/resources/js/Pages/Auth/Login.vue",
+		"/C/htdocs/htdocs/Sys_massage/routes/web.php",
+		"/C/htdocs/htdocs/Client-css-project/LoginForm.php",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/main.js",
+		"/C/htdocs/htdocs/Sys_massage/resources/js/app.js",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Login.vue",
+		"/C/htdocs/htdocs/Sys_massage/resources/js/Pages/Dashboard.vue",
+		"/C/htdocs/htdocs/Sys_massage/app/Models/User.php",
+		"/C/htdocs/htdocs/Sys_massage/package.json",
+		"/C/htdocs/htdocs/Sys_massage/phpunit.xml",
+		"/C/htdocs/htdocs/massage_api01/app/Http/Controllers/API/ApiController.php",
+		"/C/htdocs/htdocs/massage_api01/app/Http/Controllers/API/UserController.php",
+		"/C/htdocs/htdocs/massage_api01/routes/api.php",
+		"/C/htdocs/htdocs/massage_api01/database/migrations/2024_02_04_144619_booking_req_table.php",
+		"/C/htdocs/htdocs/massage_api01/app/Models/Book_req.php",
+		"/C/htdocs/htdocs/massage_api/app/Providers/RouteServiceProvider.php",
+		"/C/htdocs/htdocs/massage_api/app/Models/User.php",
+		"/C/htdocs/htdocs/massage_api/app/Providers/AuthServiceProvider.php",
+		"/C/htdocs/htdocs/massage_api01/storage/logs/laravel.log",
+		"/C/htdocs/htdocs/massage_api01/.gitignore",
+		"/C/htdocs/htdocs/massage_api/composer.lock",
+		"/C/htdocs/htdocs/massage_api/composer.json",
+		"/C/htdocs/htdocs/massage_api01/.env",
+		"/C/htdocs/htdocs/massage_api01/config/auth.php",
+		"/C/htdocs/htdocs/massage_api01/database/seeders/DatabaseSeeder.php",
+		"/C/htdocs/htdocs/massage_api01/info.php",
+		"/C/htdocs/php/php.ini",
+		"/C/htdocs/htdocs/massage_api01/composer.json",
+		"/C/htdocs/htdocs/massage_api01/composer.lock",
+		"/C/htdocs/php/php.ini-development",
+		"/C/htdocs/php/php.ini-production",
+		"/C/htdocs/htdocs/massage_api/vendor/nesbot/carbon/extension.neon",
+		"/C/htdocs/htdocs/massage_api01/routes/web.php",
+		"/C/htdocs/htdocs/massage_api01/resources/views/welcome.blade.php",
+		"/C/xampp/php/php.ini-development",
+		"/C/htdocs/htdocs/massage_api/app/Http/Controllers/AdminController.php",
+		"/C/htdocs/htdocs/massage_api/app/Http/Controllers/UserController.php",
+		"/C/htdocs/htdocs/massage_api/config/auth.php",
+		"/C/htdocs/htdocs/massage_api/config/app.php",
+		"/C/htdocs/htdocs/massage_api/app/Http/Resources/Admin/AdminAccount.php",
+		"/C/htdocs/htdocs/massage_api/app/Http/Resources/User/UserAccount.php",
+		"/C/htdocs/htdocs/massage_api/.env",
+		"/C/htdocs/htdocs/massage_api/database/factories/Model/UserFactory.php",
+		"/C/htdocs/htdocs/massage_api/database/seeders/DatabaseSeeder.php",
+		"/C/htdocs/htdocs/massage_api/database/factories/Model/AdminFactory.php",
+		"/C/htdocs/htdocs/massage_api/database/migrations/2024_01_08_083534_create_admins_table.php",
+		"/C/htdocs/htdocs/massage_api/app/Models/Model/Admin.php",
+		"/C/htdocs/htdocs/massage_api/db/Massage_db",
+		"/C/htdocs/htdocs/massage_api/db/massage_db.sql",
+		"/C/Users/user/Downloads/massage_db.sql",
+		"/C/htdocs/htdocs/massage_api/database/migrations/2024_01_08_083625_create_users_table.php",
+		"/C/htdocs/htdocs/massage_api/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php",
+		"/C/htdocs/htdocs/massage_api/routes/api.php",
+		"/C/htdocs/htdocs/massage_api/.gitignore",
+		"/C/Users/user/.ssh/id_ed25519",
+		"/C/Users/user/.ssh/id_ed25519.pub",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Message.vue",
+		"/C/htdocs/htdocs/massageSys/.env",
+		"/C/htdocs/htdocs/massageSys/database/migrations/2024_01_07_155815_admin_table.php",
+		"/C/htdocs/htdocs/massageSys/.gitignore",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/chatbox.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/chatFolder/chat.js",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/AboutView.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Header.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/index.js",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Dashboard_pages.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Admin_log.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/AdminSignUp.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/router/index.js",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/index.html",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Dash_Home.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Therapist_reg.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Upload_Serv.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Booking_request.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Admin/Transaction_record.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/components/dashboard_pages.vue",
+		"/C/htdocs/htdocs/massageSys/app/Http/Controllers/Controller.php",
+		"/C/htdocs/htdocs/massageSys/app/Http/Controllers/DashboardController.php",
+		"/C/htdocs/htdocs/massageSys/resources/views/Dashboard.blade.php",
+		"/C/htdocs/htdocs/massageSys/routes/web.php",
+		"/C/htdocs/htdocs/massageSys/app/Http/Controllers/LoginController.php",
+		"/C/htdocs/htdocs/massageSys/resources/views/Header.blade.php",
+		"/C/htdocs/htdocs/massageSys/resources/views/Login.blade.php",
+		"/C/htdocs/htdocs/massageSys/resources/views/Home.blade.php",
+		"/C/htdocs/htdocs/massageSys/resources/views/navbar/header.blade.php",
+		"/C/htdocs/htdocs/massageSys/resources/css/app.css",
+		"/C/htdocs/htdocs/massageSys/.env.example",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/booking_reserve.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Dashboard_Cust.vue",
+		"/C/htdocs/htdocs/Client-project/view/Book_func.php",
+		"/C/htdocs/htdocs/Client-project/Test/login.php",
+		"/C/htdocs/htdocs/Client-project/view/Booking_appoint.php",
+		"/C/htdocs/htdocs/Client-project/connection.php",
+		"/C/htdocs/htdocs/Client-css-project/css/index.css",
+		"/C/htdocs/htdocs/Client-project/Test/Dash_home.php",
+		"/C/htdocs/htdocs/Client-project/Test/Main_Home.php",
+		"/C/htdocs/htdocs/Client-project/Dash_Home/Services_home.html",
+		"/C/htdocs/htdocs/Client-project/Test/function.php",
+		"/C/htdocs/htdocs/Client-project/Dash_Home/Dash_home.php",
+		"/C/htdocs/htdocs/Client-project/sign.php",
+		"/C/htdocs/htdocs/Client-project/Dash_Home/SignUp.php",
+		"/C/htdocs/htdocs/Client-project/Dash_Home/css/index.css",
+		"/C/htdocs/htdocs/Client-project/Dash_Home/index.php",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Transact_Record.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/img/massage_pic.jpg",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/AppointForm.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/img/chatbox.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/register.vue",
+		"/C/htdocs/htdocs/MrDonut/view/Generate_id.php",
+		"/C/htdocs/htdocs/MrDonut/view/generate_form.php",
+		"/C/htdocs/htdocs/MrDonut/Payroll_sys.sql",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/HomeView.vue",
+		"/C/xampp/htdocs/Scanner/index.html",
+		"/F/website_project/ChatboxintendedforNursing/ScannQR.html",
+		"/F/website_project/ChatboxintendedforNursing/Info_tech/Scanner.php",
+		"/F/website_project/qrcodewithmysqldb/index.php",
+		"/F/website_project/qrcodewithmysqldb/composer.json",
+		"/F/website_project/Scanner/index.html",
+		"/F/website_project/Scanner/Text.php",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/App.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/views/Services.vue",
+		"/C/Users/user/Desktop/capstone Docu/massage_sys/src/assets/main.css",
+		"/C/Users/user/Desktop/capstone Docu/capstone_sys/massage_spa/src/router/index.js",
+		"/C/Users/user/Desktop/capstone Docu/capstone_sys/massage_spa/src/views/Login.vue",
+		"/C/Users/user/Desktop/capstone Docu/capstone_sys/massage_spa/src/views/Admin/main_admin.vue"
+	],
+	"find":
+	{
+		"height": 23.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.2
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Login.sublime-project",
+	"replace":
+	{
+		"height": 43.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rout",
+				"massage_api\\app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"auth",
+				"massage_api\\app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"u",
+				"massage_api\\app\\Models\\User.php"
+			],
+			[
+				"authse",
+				"massage_api\\app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"authser",
+				"massage_api\\app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"use",
+				"massage_api\\app\\Models\\User.php"
+			],
+			[
+				"user",
+				"app\\Models\\User.php"
+			],
+			[
+				"Userco",
+				"massage_api\\app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"api.php",
+				"massage_api\\routes\\api.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
